@@ -1,0 +1,29 @@
+{
+  "name": "mirroronthewall",
+  "version": "1.0.0",
+  "description": "Website that honestly just makes an e-mirror.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcgodfrey91/mirroronthewall.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcgodfrey91/mirroronthewall/issues"
+  },
+  "homepage": "https://github.com/bcgodfrey91/mirroronthewall#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-cors": "0.0.3",
+    "jquery": "^3.1.1"
+  },
+  "engines": {
+    "node": "6.3.1"
+  }
+}
