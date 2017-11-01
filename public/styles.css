@@ -1,3 +1,6 @@
+html {
+  background-image: url('./img/vintage-wallpaper.jpg');
+}
 body {
   display: flex;
   flex-direction: column;
@@ -11,6 +14,7 @@ h1 {
   text-align: center;
   font-family: 'Dancing Script', cursive;
   font-size: 10rem;
+  font-weight: 800;
   margin-bottom: 5rem;
 }
 
